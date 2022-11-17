@@ -1,0 +1,15 @@
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\exceptions\bin\Debug\net7.0\exceptions.exe
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\exceptions\bin\Debug\net7.0\exceptions.deps.json
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\exceptions\bin\Debug\net7.0\exceptions.runtimeconfig.json
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\exceptions\bin\Debug\net7.0\exceptions.dll
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\exceptions\bin\Debug\net7.0\exceptions.pdb
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\exceptions\obj\Debug\net7.0\exceptions.csproj.AssemblyReference.cache
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\exceptions\obj\Debug\net7.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\exceptions\obj\Debug\net7.0\exceptions.AssemblyInfoInputs.cache
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\exceptions\obj\Debug\net7.0\exceptions.AssemblyInfo.cs
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\exceptions\obj\Debug\net7.0\exceptions.csproj.CoreCompileInputs.cache
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\exceptions\obj\Debug\net7.0\exceptions.dll
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\exceptions\obj\Debug\net7.0\refint\exceptions.dll
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\exceptions\obj\Debug\net7.0\exceptions.pdb
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\exceptions\obj\Debug\net7.0\exceptions.genruntimeconfig.cache
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\exceptions\obj\Debug\net7.0\ref\exceptions.dll
