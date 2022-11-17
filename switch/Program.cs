@@ -32,6 +32,4 @@ default:
 Console.WriteLine("Es mayor a 10");
 break;
 
-
-
 }
