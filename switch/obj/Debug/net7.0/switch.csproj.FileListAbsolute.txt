@@ -1,0 +1,15 @@
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\switch\obj\Debug\net7.0\switch.csproj.AssemblyReference.cache
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\switch\obj\Debug\net7.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\switch\obj\Debug\net7.0\switch.AssemblyInfoInputs.cache
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\switch\obj\Debug\net7.0\switch.AssemblyInfo.cs
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\switch\obj\Debug\net7.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\switch\bin\Debug\net7.0\switch.exe
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\switch\bin\Debug\net7.0\switch.deps.json
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\switch\bin\Debug\net7.0\switch.runtimeconfig.json
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\switch\bin\Debug\net7.0\switch.dll
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\switch\bin\Debug\net7.0\switch.pdb
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\switch\obj\Debug\net7.0\switch.dll
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\switch\obj\Debug\net7.0\refint\switch.dll
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\switch\obj\Debug\net7.0\switch.pdb
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\switch\obj\Debug\net7.0\switch.genruntimeconfig.cache
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\switch\obj\Debug\net7.0\ref\switch.dll
