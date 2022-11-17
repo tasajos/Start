@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 int a ;
+int [] nums = new int [] {1,3,5,6,8};
+
 
 Console.WriteLine("Por favor ingrese un nro");
 
@@ -32,4 +34,11 @@ default:
 Console.WriteLine("Es mayor a 10");
 break;
 
+/*
+foreach (int i in nums)
+{
+    Console.WriteLine("El valor es {0}", i);
+
+}
+*/
 }
