@@ -1,0 +1,15 @@
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\operators\bin\Debug\net7.0\operators.exe
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\operators\bin\Debug\net7.0\operators.deps.json
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\operators\bin\Debug\net7.0\operators.runtimeconfig.json
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\operators\bin\Debug\net7.0\operators.dll
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\operators\bin\Debug\net7.0\operators.pdb
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\operators\obj\Debug\net7.0\operators.csproj.AssemblyReference.cache
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\operators\obj\Debug\net7.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\operators\obj\Debug\net7.0\operators.AssemblyInfoInputs.cache
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\operators\obj\Debug\net7.0\operators.AssemblyInfo.cs
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\operators\obj\Debug\net7.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\operators\obj\Debug\net7.0\operators.dll
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\operators\obj\Debug\net7.0\refint\operators.dll
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\operators\obj\Debug\net7.0\operators.pdb
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\operators\obj\Debug\net7.0\operators.genruntimeconfig.cache
+C:\Users\carlos.azcarraga\OneDrive - Nice Systems Ltd\TRAINEE ONLY FOR YOUR EYES\c#\Ex_Files_Learning_C_Sharp\Start\operators\obj\Debug\net7.0\ref\operators.dll
